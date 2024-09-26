@@ -35,7 +35,7 @@ The following actions are automated in this project:
    ```bash
    git clone https://github.com/yourusername/ksrtc-bus-booking-automation.git
    cd ksrtc-bus-booking-automation
-  ```
+  
 
 ## Installation
 
