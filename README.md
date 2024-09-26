@@ -58,4 +58,4 @@ The following actions are automated in this project:
 
 ## Author
 
-- **Your Name** - Michael Magdy 
+-  Michael Magdy 
